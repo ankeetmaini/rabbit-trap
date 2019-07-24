@@ -1,0 +1,15 @@
+{
+  "name": "rabbit-trap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.3"
+  },
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
